@@ -1,4 +1,6 @@
 <?php
+//Zandstra_M_-_PHP_Obekty_shablony_i_metodiki_programmirovania_4-e_izdanie
+
 //Factory Method (фабричный метод)
 abstract class ApptEncoder{
 	abstract function encode();
